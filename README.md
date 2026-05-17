@@ -7,7 +7,7 @@ Sales Data Analysis — Exploratory Data Analysis (EDA)
 
 ---
 
-##  Project Overview
+## Project Overview
 
 This project performs a full **Exploratory Data Analysis (EDA)** on a supermarket sales dataset to identify sales trends, product performance, and regional insights that support data-driven business decisions.
 
