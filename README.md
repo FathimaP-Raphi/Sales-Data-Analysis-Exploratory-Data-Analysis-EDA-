@@ -7,7 +7,7 @@ Sales Data Analysis — Exploratory Data Analysis (EDA)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs a full **Exploratory Data Analysis (EDA)** on a supermarket sales dataset to identify sales trends, product performance, and regional insights that support data-driven business decisions.
 
@@ -15,7 +15,7 @@ The analysis covers everything from raw data cleaning to advanced interactive vi
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 > *"How can the supermarket chain optimise its sales strategy, product offerings, and customer experience across its three branches to maximise revenue and customer satisfaction?"*
 
@@ -28,7 +28,7 @@ The analysis covers everything from raw data cleaning to advanced interactive vi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 sales-eda-project/
@@ -40,7 +40,7 @@ sales-eda-project/
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 | Property | Details |
 |---|---|
@@ -67,7 +67,7 @@ sales-eda-project/
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 | Tool | Purpose |
 |---|---|
@@ -81,7 +81,7 @@ sales-eda-project/
 
 ---
 
-## 🔄 Steps Followed
+##  Steps Followed
 
 1. **Data Loading** — Imported dataset using Pandas; inspected shape, dtypes, and summary stats
 2. **Data Pre-processing**
@@ -97,7 +97,7 @@ sales-eda-project/
 
 ---
 
-## 📈 Visualisations
+## Visualisations
 
 ### Static (Matplotlib / Seaborn)
 | Visualization Title                                            | Type of Visualization Used                  |
@@ -124,7 +124,7 @@ Treemap - Revenue by Branch → Customer Type → Payment
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Balanced Branch Performance** — All 3 branches contribute ~33% of total revenue, indicating no single dominant location.
 2. **Food & Beverages leads revenue; Health & Beauty leads ratings** — A strong upsell opportunity exists in Health & Beauty.
@@ -134,7 +134,7 @@ Treemap - Revenue by Branch → Customer Type → Payment
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 | # | Recommendation | Rationale |
 |---|---|---|
