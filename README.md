@@ -86,8 +86,8 @@ sales-eda-project/
 1. **Data Loading** — Imported dataset using Pandas; inspected shape, dtypes, and summary stats
 2. **Data Pre-processing**
    - Checked and confirmed zero missing values and duplicates
-   - Converted `Date` and `Time` columns to proper datetime formats
-   - Engineered derived features: `Month`, `Hour`, `Day_of_week`, `Day_type`, `Revenue_per_unit`, `Rating_band`
+   - Converted Date and Time columns to proper datetime formats
+   - Engineered derived features: Month, Hour, Day of week, Day type, Revenue per unit, Customer Satisfaction Level
 3. **Exploratory Data Analysis**
    - Univariate, bivariate, and multivariate analysis
    - GroupBy aggregations and pivot tables
